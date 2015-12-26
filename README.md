@@ -1,5 +1,5 @@
 # Send Text To Server Tutorial
-So senden ihr von Android einen Text an einen Webserver, damit dieser den Text verarbeitet, und euch eine Antwort gibt.
+So sendet ihr von Android einen Text an einen Webserver, damit dieser den Text verarbeitet, und euch eine Antwort gibt.
 
 - <a href="https://youtu.be/ZxJiiPRnt24" target="_blank" >Tutorial auf YouTube</a>
 - Projekt für Android Studio
